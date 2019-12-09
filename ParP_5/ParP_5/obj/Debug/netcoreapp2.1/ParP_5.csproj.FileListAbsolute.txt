@@ -1,0 +1,11 @@
+E:\Github\ParP\ParP_5\ParP_5\bin\Debug\netcoreapp2.1\ParP_5.deps.json
+E:\Github\ParP\ParP_5\ParP_5\bin\Debug\netcoreapp2.1\ParP_5.runtimeconfig.json
+E:\Github\ParP\ParP_5\ParP_5\bin\Debug\netcoreapp2.1\ParP_5.runtimeconfig.dev.json
+E:\Github\ParP\ParP_5\ParP_5\bin\Debug\netcoreapp2.1\ParP_5.dll
+E:\Github\ParP\ParP_5\ParP_5\bin\Debug\netcoreapp2.1\ParP_5.pdb
+E:\Github\ParP\ParP_5\ParP_5\obj\Debug\netcoreapp2.1\ParP_5.csprojAssemblyReference.cache
+E:\Github\ParP\ParP_5\ParP_5\obj\Debug\netcoreapp2.1\ParP_5.csproj.CoreCompileInputs.cache
+E:\Github\ParP\ParP_5\ParP_5\obj\Debug\netcoreapp2.1\ParP_5.AssemblyInfoInputs.cache
+E:\Github\ParP\ParP_5\ParP_5\obj\Debug\netcoreapp2.1\ParP_5.AssemblyInfo.cs
+E:\Github\ParP\ParP_5\ParP_5\obj\Debug\netcoreapp2.1\ParP_5.dll
+E:\Github\ParP\ParP_5\ParP_5\obj\Debug\netcoreapp2.1\ParP_5.pdb
